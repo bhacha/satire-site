@@ -1,0 +1,3 @@
+[submodule "themes/thebeaker"]
+	path = themes/thebeaker
+	url = https://github.com/bhacha/thebeaker.git
