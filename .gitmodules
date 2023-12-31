@@ -1,3 +1,6 @@
 [submodule "themes/thebeaker"]
 	path = themes/thebeaker
 	url = https://github.com/bhacha/thebeaker.git
+[submodule "themes/blogra-hacha"]
+	path = themes/blogra-hacha
+	url = https://github.com/bhacha/BlogRa-hacha.git
