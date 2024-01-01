@@ -2,4 +2,37 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'The Graduate Cylinder'
 
-theme = ["thebeaker"]
+theme = ["blogra-hacha"]
+
+summaryLength   = 15
+disqusShortname = ""
+
+[params]
+sectionmenu = false
+
+
+# Configure the site menu here
+[menu]
+    [[menu.main]]
+        name = "News"
+        url = "/"
+        weight = 1
+
+    [[menu.main]]
+        identifier = "about"
+        name = "about"
+        url = "/about/"
+        weight = 2
+
+
+[markup.goldmark.parser.attribute]
+    block = true
+
+# Don't touch this
+[markup.goldmark.renderer]
+    unsafe = true
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.102.3"
