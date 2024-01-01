@@ -2,7 +2,7 @@
 title: "Chemistry Pet of the Week #87"
 date: "2023-12-31"
 draft: false
-author: "Yoshi Takamoto"
+author: "Nota Akita"
 image: dog.png
 ---
 
