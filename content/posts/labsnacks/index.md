@@ -3,6 +3,8 @@ title: "Want more ThorLabs Lab Snacks?  Go to the fucking grocery store you lazy
 date: "2023-12-11"
 draft: false
 author: "Ben Dover"
+image: "snacks.jpg"
+
 ---
 
 
