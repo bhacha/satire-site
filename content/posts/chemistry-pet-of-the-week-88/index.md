@@ -3,7 +3,7 @@ title: "Chemistry Pet of the Week #88"
 date: "2024-01-03"
 draft: false
 author: "Richard Hertz"
-
+image: candiru.png
 ---
 
 Good morning everyone,
