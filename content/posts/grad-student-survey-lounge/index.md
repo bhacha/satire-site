@@ -4,6 +4,7 @@ date: "2023-12-20"
 draft: false
 author: "GSFLCS"
 image: survey.jpg
+tags: ["Around the Department"]
 ---
 
 

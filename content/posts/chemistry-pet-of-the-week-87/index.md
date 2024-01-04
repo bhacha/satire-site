@@ -4,6 +4,7 @@ date: "2023-12-31"
 draft: false
 author: "Nota Akita"
 image: dog.png
+tags: ["Pet of the Week", "Department Emails", "Around the Department"]
 ---
 
 Good morning everyone,
