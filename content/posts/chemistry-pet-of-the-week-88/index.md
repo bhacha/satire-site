@@ -4,6 +4,7 @@ date: "2024-01-03"
 draft: false
 author: "Richard Hertz"
 image: candiru.png
+tags: ["Pet of the Week", "Department Emails", "Around the Department"]
 ---
 
 Good morning everyone,
