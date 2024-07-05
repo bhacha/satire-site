@@ -4,8 +4,7 @@ publishDate: 2024-07-05
 date: "2024-07-05"
 draft: false
 author: "Editor"
-image: ""
-tags: [""]
+tags: []
 ---
 
 <br>
